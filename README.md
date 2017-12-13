@@ -1,2 +1,2 @@
 # Fourier-transform
-[image] ./傅里叶变换.bmp
+![image](https://github.com/jekcai/Fourier-transform/傅里叶变换.bmp)
